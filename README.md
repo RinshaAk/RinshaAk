@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Developer
 
-Building and shipping production-grade web applications — from system design to deployment.
+**Building and shipping web applications and SaaS platforms — from system design to deployment.**
 
 <br />
 
@@ -20,21 +20,20 @@ Building and shipping production-grade web applications — from system design t
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
 </div>
 
 ---
 
 ## About
 
-Full-stack developer specializing in scalable web applications built with React, Node.js, Express, and MongoDB. I design and ship complete systems — authentication, authorization, payments, real-time features, and cloud deployment — end to end.
+Full-stack software developer building and deploying web applications across frontend, backend, databases, and cloud infrastructure.
 
-Currently building **Adlynx**, a multi-tenant SaaS platform for digital marketing agencies, handling everything from architecture to production deployment.
-
-**Core strengths:** REST API design, secure authentication (JWT/OAuth), role-based access control, real-time systems (Socket.IO/WebRTC), and backend architecture for multi-tenant applications.
+* Built and deployed full-stack applications using React, Node.js, Express.js, and MongoDB
+* Architecting **Adlynx**, a multi-tenant SaaS platform for digital marketing agencies
+* Designed role-based access control and tenant-level data isolation
+* Built authentication, REST APIs, reporting, lead management, and subscription workflows
+* Integrated real-time communication, payment systems, AI services, and cloud infrastructure
+* Experienced across application development, API design, database integration, and deployment
 
 ---
 
@@ -58,9 +57,9 @@ Currently building **Adlynx**, a multi-tenant SaaS platform for digital marketin
 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
 
-### Tools & Infrastructure
+### Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" alt="Tools and Platforms" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode,postman" alt="Cloud and Tools" />
 
 </div>
 
@@ -68,63 +67,123 @@ Currently building **Adlynx**, a multi-tenant SaaS platform for digital marketin
 
 <div align="center">
 
-`JWT` · `OAuth` · `Socket.IO` · `WebRTC` · `Razorpay` · `Mongoose` · `System Design`
+`JWT` · `OAuth` · `Better Auth` · `Mongoose` · `Socket.IO` · `WebRTC` · `Razorpay`
 
 </div>
 
 ---
 
-## Featured Project
+# Current Project
 
-### Adlynx — Multi-Tenant SaaS Platform
+## Adlynx
 
-A marketing reporting and lead management platform built for digital marketing agencies to manage clients, campaigns, and performance data at scale.
+### SaaS Marketing Reporting & Lead Management Platform
 
-**What I built:**
-- Multi-tenant architecture with isolated data access per agency
-- Role-based access control across agency owners, managers, and clients
-- Campaign report processing pipeline with automated performance metrics
-- Lead and follow-up management workflows
-- AI-generated campaign summaries for client reporting
-- Subscription billing via Razorpay
-- Admin monitoring and activity audit logs
+Adlynx is a multi-tenant SaaS platform built for digital marketing agencies to centralize client management, campaign reporting, analytics, lead management, AI insights, and subscriptions.
 
-**Stack:** Next.js · TypeScript · React · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose
+### Built
 
----
+* Multi-tenant agency and client architecture
+* Role-based access control with isolated client data
+* Campaign report processing for Meta Ads, Google Ads, CSV, and Excel
+* Campaign performance metrics and dashboards
+* Lead management and follow-up workflows
+* Activity and audit logging
+* AI-powered campaign summaries
+* Razorpay subscription and billing workflows
+* Webhook verification and payment handling
+* Admin monitoring and platform operations
 
-## Selected Work
+### Architecture
 
-### Learnify — Learning Management System
+```text
+Agency
+   │
+   ├── Clients
+   │      ├── Client Users
+   │      ├── Leads
+   │      └── Campaign Reports
+   │
+   ├── Subscription
+   │
+   └── Activity Logs
+```
 
-End-to-end LMS supporting student, instructor, and admin workflows.
+### Stack
 
-- Course management and enrollment with role-based authorization
-- JWT and Google OAuth authentication
-- Razorpay payment integration
-- Real-time chat and notifications via Socket.IO
-- Live classes with WebRTC
-- Automated certificate generation
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-**Stack:** React · Redux · Node.js · Express.js · MongoDB · Socket.IO · WebRTC · JWT · Razorpay
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
 
-[View Live](https://single-project-learnify.vercel.app/)
+`Better Auth` · `Joi` · `Razorpay`
 
----
-
-### FoodSnap AI — AI-Powered Food Analysis
-
-Application analyzing food images to return nutritional breakdowns in real time.
-
-- Image-based food recognition and nutrition analysis
-- Authenticated user dashboards
-- Cloud-based image storage and retrieval
-
-**Stack:** React · Express.js · MongoDB · Cloudinary
+`Docker` · `AWS` · `pnpm` · `Turborepo`
 
 ---
 
-## GitHub Activity
+# Selected Projects
+
+## Learnify
+
+### Learning Management System
+
+A full-stack LMS connecting students, instructors, and administrators through a unified platform.
+
+**Built**
+
+* Multi-role application architecture
+* Course creation and enrollment
+* JWT and Google OAuth authentication
+* Role-based authorization
+* Razorpay payment integration
+* Certificate generation
+* Real-time chat and notifications
+* WebRTC live classes with video, audio, and screen sharing
+
+**Stack**
+
+`React` · `Redux` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `WebRTC`
+
+[Live Project](https://single-project-learnify.vercel.app/)
+
+---
+
+## FoodSnap AI
+
+### AI-Powered Food Analysis Application
+
+A web application for analyzing food images and providing nutrition-related information.
+
+**Built**
+
+* Image upload and processing
+* AI-based food analysis
+* Nutrition information
+* Authentication
+* User dashboard
+* Cloud image storage
+
+**Stack**
+
+`React` · `Express.js` · `MongoDB` · `Cloudinary`
+
+---
+
+## Portfolio
+
+### Personal Developer Portfolio
+
+A portfolio website showcasing projects, technical work, and development experience.
+
+**Stack**
+
+`React` · `JavaScript` · `Vercel`
+
+[Visit Portfolio](https://fathima-rinsha-ak.vercel.app/)
+
+---
+
+# GitHub
 
 <div align="center">
 
@@ -133,7 +192,8 @@ src="https://github-readme-stats.vercel.app/api?username=RinshaAk&show_icons=tru
 alt="GitHub Statistics"
 />
 
-<br /><br />
+<br />
+<br />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinshaAk&layout=compact&hide_border=true&theme=tokyonight"
@@ -146,12 +206,12 @@ alt="Most Used Languages"
 
 <div align="center">
 
-### Let's Connect
+### Connect
 
 <a href="https://www.linkedin.com/in/rinshaak">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/RinshaAk">GitHub</a>
+  ·   <a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
+  ·   <a href="https://github.com/RinshaAk">GitHub</a>
+
+
 
 </div>
