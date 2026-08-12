@@ -64,19 +64,6 @@ Building with React, Next.js, Node.js, Express, and MongoDB, with growing depth 
 
 </div>
 
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RinshaAk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinshaAk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
 ---
 
 ## Connect With Me
