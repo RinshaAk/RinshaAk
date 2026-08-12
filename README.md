@@ -4,18 +4,20 @@
 
 ### Software Developer
 
-Full-stack developer focused on building scalable web applications and practical software solutions.
+Full-stack developer focused on building web applications and practical software solutions.
 
 <br />
 
-<a href="https://github.com/fathimarinsha794">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/RinshaAk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://www.linkedin.com/in/rinshaak">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="https://fathima-rinsha-ak.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -36,19 +38,25 @@ Full-stack developer focused on building scalable web applications and practical
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
+### Languages
 
-<br />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
+### Frontend
 
-<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### Backend
 
-<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" />
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" alt="Tools and Platforms" />
 
 </div>
 
@@ -66,11 +74,11 @@ Full-stack developer focused on building scalable web applications and practical
 
 ## Adlynx
 
-**SaaS Marketing Reporting & Lead Management Platform**
+### SaaS Marketing Reporting & Lead Management Platform
 
-A multi-tenant platform for digital marketing agencies to manage clients, campaign reports, performance metrics, leads, AI insights, and subscriptions.
+Adlynx is a multi-tenant SaaS platform for digital marketing agencies to manage clients, campaign reports, performance metrics, leads, AI insights, and subscriptions.
 
-**Key Features**
+### Key Features
 
 * Multi-tenant client management
 * Role-based access control
@@ -82,7 +90,7 @@ A multi-tenant platform for digital marketing agencies to manage clients, campai
 * Activity logging
 * Admin monitoring
 
-**Stack**
+### Stack
 
 `Next.js` `TypeScript` `React` `Tailwind CSS`
 
@@ -90,11 +98,11 @@ A multi-tenant platform for digital marketing agencies to manage clients, campai
 
 ---
 
-# Projects
+# Completed Projects
 
 ## Learnify
 
-**Learning Management System**
+### Learning Management System
 
 * Student, Instructor & Admin workflows
 * Course management & enrollment
@@ -105,7 +113,9 @@ A multi-tenant platform for digital marketing agencies to manage clients, campai
 * WebRTC live classes
 * Certificate generation
 
-`React` `Redux` `Node.js` `Express.js` `MongoDB` `Socket.IO` `WebRTC`
+`React` `Redux` `Node.js` `Express.js` `MongoDB`
+
+`Socket.IO` `WebRTC` `JWT` `Razorpay`
 
 [Live Project](https://single-project-learnify.vercel.app/)
 
@@ -113,7 +123,7 @@ A multi-tenant platform for digital marketing agencies to manage clients, campai
 
 ## FoodSnap AI
 
-**AI-Powered Food Analysis Application**
+### AI-Powered Food Analysis Application
 
 * Food image analysis
 * Nutrition information
@@ -129,7 +139,7 @@ A multi-tenant platform for digital marketing agencies to manage clients, campai
 
 Personal developer portfolio showcasing projects and technical work.
 
-`React` `JavaScript` `Vercel`
+`JavaScript` `React` `Vercel`
 
 [Visit Portfolio](https://fathima-rinsha-ak.vercel.app/)
 
@@ -145,11 +155,31 @@ Personal developer portfolio showcasing projects and technical work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fathimarinsha794&show_icons=true&hide_border=true&theme=tokyonight" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=RinshaAk&show_icons=true&hide_border=true&theme=tokyonight"
+alt="GitHub Statistics"
+/>
 
 <br />
+<br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarinsha794&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=RinshaAk&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## Most Used Languages
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinshaAk&layout=compact&hide_border=true&theme=tokyonight"
+alt="Most Used Languages"
+/>
 
 </div>
 
@@ -161,9 +191,10 @@ Personal developer portfolio showcasing projects and technical work.
 
 <a href="https://www.linkedin.com/in/rinshaak">LinkedIn</a>
   •   <a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
-  •   <a href="https://github.com/fathimarinsha794">GitHub</a>
+  •   <a href="https://github.com/RinshaAk">GitHub</a>
 
-<br /><br />
+<br />
+<br />
 
 **Build • Learn • Improve**
 
