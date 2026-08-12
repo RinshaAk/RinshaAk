@@ -2,9 +2,9 @@
 
 # Fathima Rinsha
 
-### Software Developer
+### Full-Stack Software Developer
 
-Full-stack developer focused on building web applications and practical software solutions.
+Building and shipping production-grade web applications — from system design to deployment.
 
 <br />
 
@@ -20,17 +20,21 @@ Full-stack developer focused on building web applications and practical software
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
 ## About
 
-* Software Developer focused on full-stack web development
-* Building applications with React, Node.js, Express.js, and MongoDB
-* Experienced in REST APIs, authentication, authorization, and real-time applications
-* Interested in backend architecture, cloud deployment, and system design
-* Currently improving TypeScript, Next.js, Docker, and AWS
+Full-stack developer specializing in scalable web applications built with React, Node.js, Express, and MongoDB. I design and ship complete systems — authentication, authorization, payments, real-time features, and cloud deployment — end to end.
+
+Currently building **Adlynx**, a multi-tenant SaaS platform for digital marketing agencies, handling everything from architecture to production deployment.
+
+**Core strengths:** REST API design, secure authentication (JWT/OAuth), role-based access control, real-time systems (Socket.IO/WebRTC), and backend architecture for multi-tenant applications.
 
 ---
 
@@ -54,7 +58,7 @@ Full-stack developer focused on building web applications and practical software
 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
 
-### Tools & Platforms
+### Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" alt="Tools and Platforms" />
 
@@ -64,94 +68,63 @@ Full-stack developer focused on building web applications and practical software
 
 <div align="center">
 
-`JWT` · `OAuth` · `Socket.IO` · `WebRTC` · `Razorpay` · `Mongoose`
+`JWT` · `OAuth` · `Socket.IO` · `WebRTC` · `Razorpay` · `Mongoose` · `System Design`
 
 </div>
 
 ---
 
-# Current Project
+## Featured Project
 
-## Adlynx
+### Adlynx — Multi-Tenant SaaS Platform
 
-### SaaS Marketing Reporting & Lead Management Platform
+A marketing reporting and lead management platform built for digital marketing agencies to manage clients, campaigns, and performance data at scale.
 
-Adlynx is a multi-tenant SaaS platform for digital marketing agencies to manage clients, campaign reports, performance metrics, leads, AI insights, and subscriptions.
+**What I built:**
+- Multi-tenant architecture with isolated data access per agency
+- Role-based access control across agency owners, managers, and clients
+- Campaign report processing pipeline with automated performance metrics
+- Lead and follow-up management workflows
+- AI-generated campaign summaries for client reporting
+- Subscription billing via Razorpay
+- Admin monitoring and activity audit logs
 
-### Key Features
-
-* Multi-tenant client management
-* Role-based access control
-* Campaign report processing
-* Marketing analytics
-* Lead & follow-up management
-* AI-generated campaign summaries
-* Razorpay subscriptions
-* Activity logging
-* Admin monitoring
-
-### Stack
-
-`Next.js` `TypeScript` `React` `Tailwind CSS`
-
-`Node.js` `Express.js` `MongoDB` `Mongoose`
+**Stack:** Next.js · TypeScript · React · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose
 
 ---
 
-# Completed Projects
+## Selected Work
 
-## Learnify
+### Learnify — Learning Management System
 
-### Learning Management System
+End-to-end LMS supporting student, instructor, and admin workflows.
 
-* Student, Instructor & Admin workflows
-* Course management & enrollment
-* JWT & Google OAuth authentication
-* Role-based authorization
-* Razorpay payments
-* Real-time chat & notifications
-* WebRTC live classes
-* Certificate generation
+- Course management and enrollment with role-based authorization
+- JWT and Google OAuth authentication
+- Razorpay payment integration
+- Real-time chat and notifications via Socket.IO
+- Live classes with WebRTC
+- Automated certificate generation
 
-`React` `Redux` `Node.js` `Express.js` `MongoDB`
+**Stack:** React · Redux · Node.js · Express.js · MongoDB · Socket.IO · WebRTC · JWT · Razorpay
 
-`Socket.IO` `WebRTC` `JWT` `Razorpay`
-
-[Live Project](https://single-project-learnify.vercel.app/)
+[View Live](https://single-project-learnify.vercel.app/)
 
 ---
 
-## FoodSnap AI
+### FoodSnap AI — AI-Powered Food Analysis
 
-### AI-Powered Food Analysis Application
+Application analyzing food images to return nutritional breakdowns in real time.
 
-* Food image analysis
-* Nutrition information
-* Authentication
-* User dashboard
-* Cloud image storage
+- Image-based food recognition and nutrition analysis
+- Authenticated user dashboards
+- Cloud-based image storage and retrieval
 
-`React` `Express.js` `MongoDB` `Cloudinary`
+**Stack:** React · Express.js · MongoDB · Cloudinary
 
 ---
 
-## Portfolio
-
-Personal developer portfolio showcasing projects and technical work.
-
-`JavaScript` `React` `Vercel`
-
-[Visit Portfolio](https://fathima-rinsha-ak.vercel.app/)
-
----
-
-## Currently Learning
-
-`TypeScript` · `Next.js` · `Docker` · `AWS` · `System Design` · `DSA`
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
@@ -160,21 +133,7 @@ src="https://github-readme-stats.vercel.app/api?username=RinshaAk&show_icons=tru
 alt="GitHub Statistics"
 />
 
-<br />
-<br />
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=RinshaAk&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
+<br /><br />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinshaAk&layout=compact&hide_border=true&theme=tokyonight"
@@ -190,12 +149,9 @@ alt="Most Used Languages"
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/rinshaak">LinkedIn</a>
-  •   <a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
-  •   <a href="https://github.com/RinshaAk">GitHub</a>
-
-<br />
-<br />
-
-**Build • Learn • Improve**
+&nbsp;•&nbsp;
+<a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/RinshaAk">GitHub</a>
 
 </div>
