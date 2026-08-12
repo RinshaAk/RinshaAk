@@ -34,9 +34,36 @@ Building with React, Next.js, Node.js, Express, and MongoDB, with growing depth 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,tailwind,nodejs,express,mongodb,docker,aws,git" alt="Tech Stack" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="JavaScript TypeScript HTML CSS" />
+
+<br />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="React Next.js Redux Tailwind Vite" />
+
+<br />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB" />
+
+<br />
+
+### Cloud & Development Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,vercel" alt="AWS Docker Git GitHub VS Code Postman Vercel" />
+
+<br />
+
+### Technologies
+
+`JWT` · `OAuth` · `Better Auth` · `Mongoose` · `Socket.IO` · `WebRTC` · `Razorpay`
 
 </div>
+
 
 ---
 
