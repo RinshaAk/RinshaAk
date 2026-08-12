@@ -2,9 +2,9 @@
 
 # Fathima Rinsha
 
-### Full-Stack Software Developer
+### Software Developer
 
-**Building and shipping web applications and SaaS platforms — from system design to deployment.**
+Full-stack developer focused on building web applications and practical software solutions.
 
 <br />
 
@@ -26,14 +26,11 @@
 
 ## About
 
-Full-stack software developer building and deploying web applications across frontend, backend, databases, and cloud infrastructure.
-
-* Built and deployed full-stack applications using React, Node.js, Express.js, and MongoDB
-* Architecting **Adlynx**, a multi-tenant SaaS platform for digital marketing agencies
-* Designed role-based access control and tenant-level data isolation
-* Built authentication, REST APIs, reporting, lead management, and subscription workflows
-* Integrated real-time communication, payment systems, AI services, and cloud infrastructure
-* Experienced across application development, API design, database integration, and deployment
+* Software Developer focused on full-stack web development
+* Building applications with React, Node.js, Express.js, and MongoDB
+* Experienced in REST APIs, authentication, authorization, and real-time applications
+* Interested in backend architecture, cloud deployment, and system design
+* Currently improving TypeScript, Next.js, Docker, and AWS
 
 ---
 
@@ -57,9 +54,9 @@ Full-stack software developer building and deploying web applications across fro
 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
 
-### Cloud & Tools
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode,postman" alt="Cloud and Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel" alt="Tools and Platforms" />
 
 </div>
 
@@ -67,7 +64,7 @@ Full-stack software developer building and deploying web applications across fro
 
 <div align="center">
 
-`JWT` · `OAuth` · `Better Auth` · `Mongoose` · `Socket.IO` · `WebRTC` · `Razorpay`
+`JWT` · `OAuth` · `Socket.IO` · `WebRTC` · `Razorpay` · `Mongoose`
 
 </div>
 
@@ -79,70 +76,46 @@ Full-stack software developer building and deploying web applications across fro
 
 ### SaaS Marketing Reporting & Lead Management Platform
 
-Adlynx is a multi-tenant SaaS platform built for digital marketing agencies to centralize client management, campaign reporting, analytics, lead management, AI insights, and subscriptions.
+Adlynx is a multi-tenant SaaS platform for digital marketing agencies to manage clients, campaign reports, performance metrics, leads, AI insights, and subscriptions.
 
-### Built
+### Key Features
 
-* Multi-tenant agency and client architecture
-* Role-based access control with isolated client data
-* Campaign report processing for Meta Ads, Google Ads, CSV, and Excel
-* Campaign performance metrics and dashboards
-* Lead management and follow-up workflows
-* Activity and audit logging
-* AI-powered campaign summaries
-* Razorpay subscription and billing workflows
-* Webhook verification and payment handling
-* Admin monitoring and platform operations
-
-### Architecture
-
-```text
-Agency
-   │
-   ├── Clients
-   │      ├── Client Users
-   │      ├── Leads
-   │      └── Campaign Reports
-   │
-   ├── Subscription
-   │
-   └── Activity Logs
-```
+* Multi-tenant client management
+* Role-based access control
+* Campaign report processing
+* Marketing analytics
+* Lead & follow-up management
+* AI-generated campaign summaries
+* Razorpay subscriptions
+* Activity logging
+* Admin monitoring
 
 ### Stack
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+`Next.js` `TypeScript` `React` `Tailwind CSS`
 
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
-
-`Better Auth` · `Joi` · `Razorpay`
-
-`Docker` · `AWS` · `pnpm` · `Turborepo`
+`Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ---
 
-# Selected Projects
+# Completed Projects
 
 ## Learnify
 
 ### Learning Management System
 
-A full-stack LMS connecting students, instructors, and administrators through a unified platform.
-
-**Built**
-
-* Multi-role application architecture
-* Course creation and enrollment
-* JWT and Google OAuth authentication
+* Student, Instructor & Admin workflows
+* Course management & enrollment
+* JWT & Google OAuth authentication
 * Role-based authorization
-* Razorpay payment integration
+* Razorpay payments
+* Real-time chat & notifications
+* WebRTC live classes
 * Certificate generation
-* Real-time chat and notifications
-* WebRTC live classes with video, audio, and screen sharing
 
-**Stack**
+`React` `Redux` `Node.js` `Express.js` `MongoDB`
 
-`React` · `Redux` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `WebRTC`
+`Socket.IO` `WebRTC` `JWT` `Razorpay`
 
 [Live Project](https://single-project-learnify.vercel.app/)
 
@@ -152,38 +125,33 @@ A full-stack LMS connecting students, instructors, and administrators through a 
 
 ### AI-Powered Food Analysis Application
 
-A web application for analyzing food images and providing nutrition-related information.
-
-**Built**
-
-* Image upload and processing
-* AI-based food analysis
+* Food image analysis
 * Nutrition information
 * Authentication
 * User dashboard
 * Cloud image storage
 
-**Stack**
-
-`React` · `Express.js` · `MongoDB` · `Cloudinary`
+`React` `Express.js` `MongoDB` `Cloudinary`
 
 ---
 
 ## Portfolio
 
-### Personal Developer Portfolio
+Personal developer portfolio showcasing projects and technical work.
 
-A portfolio website showcasing projects, technical work, and development experience.
-
-**Stack**
-
-`React` · `JavaScript` · `Vercel`
+`JavaScript` `React` `Vercel`
 
 [Visit Portfolio](https://fathima-rinsha-ak.vercel.app/)
 
 ---
 
-# GitHub
+## Currently Learning
+
+`TypeScript` · `Next.js` · `Docker` · `AWS` · `System Design` · `DSA`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -196,6 +164,19 @@ alt="GitHub Statistics"
 <br />
 
 <img
+src="https://github-readme-streak-stats.herokuapp.com/?user=RinshaAk&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## Most Used Languages
+
+<div align="center">
+
+<img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinshaAk&layout=compact&hide_border=true&theme=tokyonight"
 alt="Most Used Languages"
 />
@@ -206,14 +187,15 @@ alt="Most Used Languages"
 
 <div align="center">
 
-### Connect
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/rinshaak">LinkedIn</a>
-  ·   <a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
-  ·   <a href="https://github.com/RinshaAk">GitHub</a>
+  •   <a href="https://fathima-rinsha-ak.vercel.app/">Portfolio</a>
+  •   <a href="https://github.com/RinshaAk">GitHub</a>
 
-<br /><br />
+<br />
+<br />
 
-**Build · Ship · Improve**
+**Build • Learn • Improve**
 
 </div>
