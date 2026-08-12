@@ -1,47 +1,47 @@
 <div align="center">
 
-# Hi, I'm Fathima Rinsha
+# Fathima Rinsha
 
-### Software Developer
+### Software Developer · Full-Stack Web Development
 
-I build web applications and enjoy working across both frontend and backend.
-I'm interested in understanding how things work under the hood and turning
-ideas into useful software.
+Building full-stack applications with **JavaScript, React, Node.js, Express, and MongoDB**.
+
+I enjoy turning ideas into working products, solving engineering problems, and continuously improving how applications are designed, built, secured, and deployed.
 
 <br />
 
 <a href="https://github.com/fathimarinsha794">
-  <img src="https://img.shields.io/github/followers/fathimarinsha794?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/fathimarinsha794?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
+<a href="https://www.linkedin.com/in/rinshaak">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://fathima-rinsha-ak.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Software Developer focused on building web applications and learning
-different parts of the development process, from creating interfaces to
-building APIs and working with databases.
+I'm a Software Developer focused on building modern web applications across the **frontend, backend, database, and deployment layers**.
 
-Most of my projects involve JavaScript and its ecosystem. I enjoy taking an
-idea, breaking it into smaller parts, and building it into something that
-actually works.
+My main experience is around the JavaScript ecosystem, particularly React and Node.js. I enjoy working on applications where frontend interfaces, backend APIs, authentication, databases, and real-time functionality come together.
 
-- Software Developer with a focus on web development
-- Building full-stack applications and personal projects
-- Interested in backend development, APIs, authentication, and databases
-- Currently learning TypeScript, Next.js, Docker, AWS, and System Design
-- Improving my problem-solving and Data Structures & Algorithms skills
-- Open to collaborating on software and open-source projects
+Currently, I'm focused on writing more maintainable code, improving backend architecture, strengthening application security, and learning how to take applications from development to production.
+
+* Full-stack web development
+* REST API development
+* Authentication & authorization
+* Database design and integration
+* Real-time applications
+* Cloud deployment
+* Production-oriented application development
+* Open-source development and collaboration
 
 ---
 
@@ -50,188 +50,219 @@ actually works.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="React Next.js Redux Tailwind Vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express.js" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Database & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools & Platforms
+### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,npm" alt="Git GitHub VS Code Postman Docker AWS Vercel NPM" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode,npm" />
 </p>
+
+### Other Technologies
+
+`JWT` · `OAuth` · `Socket.IO` · `WebRTC` · `REST APIs` · `Razorpay`
 
 ---
 
-## Featured Projects
+# Projects
 
-### Learnify
+## Learnify
 
-A learning management platform built for students and instructors.
+### Learning Management System
 
-**Technologies**
+**Learnify** is my main full-stack project — a learning management platform designed around different user roles and real-world application workflows.
 
-`React` `Node.js` `Express.js` `MongoDB`
+The platform brings together students, instructors, and administrators with features covering course management, authentication, payments, communication, and live classes.
 
-**What I worked on**
+### Highlights
 
-- Student and instructor dashboards
-- Course creation and enrollment
-- Live class management
-- Certificate generation
-- Authentication and role-based authorization
-- Responsive user interface
+* Student, Instructor, and Admin workflows
+* JWT authentication
+* Google OAuth
+* OTP verification
+* Role-based access control
+* Course creation and enrollment
+* Razorpay payment integration
+* Certificate generation
+* Real-time notifications
+* Real-time chat with Socket.IO
+* Live classes using WebRTC
+* Audio, video, and screen sharing
+* Responsive frontend
+* RESTful backend APIs
 
-[View Project](https://single-project-learnify.vercel.app/)
+### Stack
+
+`React` `Redux` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.IO` `WebRTC`
+
+### Current Work
+
+I'm currently taking Learnify beyond a basic project and improving it toward a more **production-ready application**.
+
+Current areas of work include:
+
+* Backend security
+* API authorization
+* Validation and error handling
+* Application architecture
+* Deployment
+* HTTPS and domain configuration
+* Performance and scalability
+* Code maintainability
+
+**Live Project:**
+https://single-project-learnify.vercel.app/
 
 ---
 
-### FoodSnap AI
+## FoodSnap AI
 
-A web application that uses AI to analyze food images and provide
-nutrition-related information.
+### AI-Powered Food Analysis Application
 
-**Technologies**
+FoodSnap AI is a web application that allows users to upload food images and receive AI-generated information about the food and its nutritional details.
+
+### Highlights
+
+* Food image upload
+* AI-based image analysis
+* Nutrition information
+* User authentication
+* User dashboard
+* Cloud image storage
+
+### Stack
 
 `React` `Express.js` `MongoDB` `Cloudinary`
 
-**What I worked on**
+---
 
-- Food image upload
-- AI-based food analysis
-- Nutrition information
-- User authentication
-- User dashboard
-- Cloud-based image storage
+## Personal Portfolio
+
+### Developer Portfolio
+
+A personal portfolio website built to showcase my projects, technical skills, and development work.
+
+### Stack
+
+`React` `JavaScript` `Vercel`
+
+**Live:**
+https://fathima-rinsha-ak.vercel.app/
 
 ---
 
-### Personal Portfolio
+# What I'm Learning
 
-My personal portfolio where I showcase my projects, skills, and work as I
-continue learning and building software.
+I'm currently expanding my knowledge beyond the core MERN stack.
 
-**Technologies**
+```text
+TypeScript
+Next.js
+Advanced React
+Docker
+AWS
+System Design
+Data Structures & Algorithms
+Backend Architecture
+Cloud Deployment
+```
 
-`JavaScript` `React` `Vercel`
-
-[Visit Portfolio](https://fathima-rinsha-ak.vercel.app/)
+My approach is to learn these technologies by **building, debugging, deploying, and improving real applications**.
 
 ---
 
-## GitHub Statistics
+# Engineering Interests
+
+I'm particularly interested in:
+
+* Full-stack application architecture
+* Backend engineering
+* REST API design
+* Authentication & authorization
+* Database architecture
+* Real-time systems
+* Cloud infrastructure
+* Application security
+* System design
+* Developer tooling
+* Open-source software
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=fathimarinsha794&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
-  alt="GitHub Statistics"
+src="https://github-readme-stats.vercel.app/api?username=fathimarinsha794&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
+alt="GitHub Stats"
 />
 
 <br />
-<br />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarinsha794&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarinsha794&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-## Most Used Languages
+# Most Used Languages
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarinsha794&layout=compact&hide_border=true&theme=tokyonight"
-  alt="Most Used Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarinsha794&layout=compact&hide_border=true&theme=tokyonight"
+alt="Most Used Languages"
 />
 
 </div>
 
 ---
 
-## Currently Learning
-
-I'm currently spending time improving my understanding of:
-
-- TypeScript
-- Advanced React
-- Next.js
-- Docker
-- AWS
-- System Design
-- Data Structures & Algorithms
-
-I prefer learning these by building projects rather than only following
-tutorials.
-
----
-
-## Goals
-
-- Build more production-ready applications
-- Get stronger with TypeScript and Next.js
-- Improve backend and API development
-- Learn more about cloud deployment and AWS
-- Improve Data Structures & Algorithms
-- Understand System Design
-- Contribute to open-source projects
-- Build and launch a SaaS product
-
----
-
-## Let's Connect
+# Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rinshaak">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://fathima-rinsha-ak.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/fathimarinsha794">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-Thanks for stopping by.
-
-Feel free to explore my repositories.
+**Building. Learning. Improving.**
 
 </div>
