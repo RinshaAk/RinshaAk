@@ -1,4 +1,4 @@
-# Fathima Rinsha 👋
+# Fathima Rinsha 
 
 ### Software Engineer | Full-Stack Development
 
