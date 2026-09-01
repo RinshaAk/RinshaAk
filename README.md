@@ -43,8 +43,6 @@ Building with React, Next.js, Node.js, Express, and MongoDB, with growing depth 
 <br />
 
 ### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Node.js Express MongoDB Redis" />
 <br />
 
